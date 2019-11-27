@@ -1,2 +1,2 @@
-# autoclassifier
-An automatic classfication system
+# Autoclassifier
+An automatic classfication system that uses the credit card approval process as a case study.
